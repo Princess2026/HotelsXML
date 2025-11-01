@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotel
+  xmlns="ConsoleApp1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="ConsoleApp1 Hotels.xsd">
+    <Hotel Rating="3.9">
+        <Name>DoubleTree by Hilton Hotel Chicago</Name>
+        <Phone>847-364-7600</Phone>
+        <Address>
+        <Number>75</Number>
+        <Street>Algonquin Rd</Street>
+        <City>Arlington Heights</City>
+        <State>IL</State>
+        <Zip>60005</Zip>
+        </Address>
+    </Hotel>
+    <Hotel>
+        <Name>Comfort Suites Chicago</Name>
+        <Phone>847-233-9000</Phone>
+        <Address>
+        <Number>4200</Number>
+        <Street>N. River Rd</Street>
+        <City>Schiller Park</City>
+        <State>IL</State>
+        <Zip>60176</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="3.6">
+        <Name>Wyndham Garden Schaumburg Chicago Northwest</Name>
+        <Phone>847-496-3347</Phone>
+        <Phone>773-722-9566</Phone>
+        <Address>
+        <Number>1725</Number>
+        <Street>E. Algonquin Rd</Street>
+        <City>Schaumburg</City>
+        <State>IL</State>
+        <Zip>60173</Zip>
+
+    </Hotel>
+     <Hotel Rating="4.4">
+        <Name>Hyatt Regency O'Hare Chicago</Name>
+        <Name>Kahmahalan Palace Hotel O'Hare Chicago</Name>
+        <Phone>847-696-1234</Phone>
+        <Address>
+        <Number>9300</Number>
+        <Street>W. Bryn Mawr Ave</Street>
+        <City>Rosemont</City>
+        <State>IL</State>
+        <Zip>60018</Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating="4.5">
+        <Name>La Quinta Inn by Wyndham Denver Westminster</Name>
+        <Phone>303-425-9099</Phone>
+        <Address>
+        <Number>8701</Number>
+        <Street>Turnpike Dr</Street>
+        <City>Westminster</City>
+        <State>CO</State>
+        <Zip>80031</Zip>
+        </Address>
+
+    </Hotel>
+
+    <Hotel>
+        <Name>Hilton Phoenix Airport</Name>
+        <Phone>480-894-1600</Phone>
+        <Address>
+        <Number>2435</Number>
+        <Street>S 47th St</Street>
+        <City>Phoenix</City>
+        <State>AZ</State>
+        <Zip>85034</Zip>
+        </Address>
+
+    </Hotel>
+
+    <Hotel>
+        <Name>Fairfield by Marriott Inn and Suites Tempe</Name>
+        <Address>
+        <Number>1929</Number>
+        <Street>E. Rio Salado Pkwy</Street>
+        <City>Tempe</City>
+        <State>AZ</State>
+        <Zip>85288</Zip>
+        </Address>
+
+    </Hotel>
+
+    <Hotel Rating="4.2">
+        <Name>Embassy Suites by Hilton Orlando International Drive Convention Center</Name>
+        <Phone>407-352-1400</Phone>
+        <Address>
+        <Number>8978</Number>
+        <Street>International Dr</Street>
+        <City>Orlando</City>
+        <State>FL</State>
+        <Zip>32819</Zip>
+        </Address>
+
+    </Hotel>
+
+<Hotel Rating="4.1">
+        <Name>Freehand Los Angeles</Name>
+        <Phone>213-612-0021</Phone>
+        <Address>
+        <Number>416</Number>
+        <Street>W. 8th St</Street>
+        <City>Los Angeles</City>
+        <State>CA</State>
+        <Zip>90014</Zip>
+        </Address>
+
+    </Hotel>
+    <Hotel Rating="4.6">
+        <Name>Residence Inn by Marriott New York JFK Airport</Name>
+        <Phone>718-322-3113</Phone>
+        <Phone>718-322-2500</Phone>
+        <Address>
+        <Number>142</Number>
+        <Street>135th Ave</Street>
+        <City>Jamaica</City>
+        <State>NY</State>
+        <Zip>11436</Zip>
+        </Address>
+
+    </Hotel>
+
+    <Hotel Rating="4.1">
+        <Name>Hilton New York Times Square</Name>
+        <Phone>212-913-9488</Phone>
+        <Address>
+        <Number>234</Number>
+        <Street>W. 42nd St</Street>
+        <City>New York</City>
+        <State>NY</State>
+        <Zip>10036</Zip>
+        </Address>
+
+    </Hotel>
+
+    </Hotels>
